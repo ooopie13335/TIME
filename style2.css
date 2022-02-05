@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items:    center ;
+    height: 100vh;
+    font-family: 'Oswald', sans-serif;
+    background-image: url(https://images.pexels.com/photos/2471234/pexels-photo-2471234.jpeg?cs=srgb&dl=pexels-luis-quintero-2471234.jpg&fm=jpg);
+}
+
+
+
+
+
+.from{
+width: 300px;
+padding: 32px;
+border-radius: 10px;
+box-shadow: 100 4px px #ccc;
+letter-spacing: 1px;
+}
+
+
+
+
+
+
+
